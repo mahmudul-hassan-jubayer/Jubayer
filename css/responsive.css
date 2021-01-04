@@ -1,0 +1,1252 @@
+/*================= 320 to 575 start =================*/
+
+
+@media (min-width: 320px) and (max-width: 575px) {
+
+    nav {
+        padding: 12px !important;
+    }
+
+    nav .logoN {
+        margin-left: 10px;
+    }
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #ffffff;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    nav ul li {
+        margin-right: 0;
+    }
+
+    nav ul li a::after {
+        height: 0;
+    }
+
+    #banner-part ul {
+        bottom: 0;
+    }
+
+    #banner-part .overlay .text h1 {
+        font-size: 20px;
+        margin-top: 80px;
+    }
+
+    #banner-part .overlay .text h2 {
+        padding: 10px 0;
+    }
+
+    #banner-part .overlay .text h3 {
+        font-size: 40px;
+    }
+
+    #banner-part .overlay .text p {
+        margin: 10px auto;
+    }
+
+    #banner-part .overlay .btn {
+        padding: 5px 10px;
+    }
+
+    #banner-part ul li button {
+        width: 30px;
+    }
+
+    #banner-part ul .slick-active button {
+        width: 55px;
+    }
+
+    #banner-part .prev {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        left: 10px;
+    }
+
+    #banner-part .next {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        right: 10px;
+    }
+
+    .color-changer {
+        width: 163px;
+        top: 65%;
+    }
+
+    .color-changer .icon i {
+        font-size: 20px;
+        margin: 0 4px;
+    }
+
+    .title h4 {
+        padding: 20px 0;
+    }
+
+    #about-part {
+        padding-bottom: 30px;
+    }
+
+    #about-part .item {
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+
+    #about-part .item .img {
+        width: 220px;
+        height: 270px;
+    }
+
+    #about-part .item .img::after {
+        width: 160px;
+        height: 250px;
+        top: 38px;
+    }
+
+    #about-part .item .img .overlay h3 {
+        padding: 10px 0;
+        font-size: 20px;
+    }
+
+    #about-part .item .img .overlay .icon i {
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        margin: 0 5px;
+    }
+
+    #about-part .item2 {
+        height: auto;
+    }
+
+    #about-part ul{
+        /* margin: 0 auto; */
+        margin-top: 50px;
+    }
+
+    #about-part ul li {
+        margin-top: 10px;
+        padding: 5px 6px;
+    }
+
+    #what-i-do-part .overlay {
+        padding-bottom: 20px;
+    }
+
+    #what-i-do-part .overlay .item {
+        margin-bottom: 50px;
+    }
+
+    #what-i-do-part .overlay .item .head {
+        padding: 5px 0;
+    }
+
+    .h3, h3 {
+        font-size: 20px;
+    }
+
+    #what-i-do-part .overlay .item .middel {
+        width: 120px;
+        height: 120px;
+        margin: 10px auto;
+    }
+
+    #what-i-do-part .overlay .item .middel h4 {
+        font-size: 25px;
+    }
+
+    #what-i-do-part .overlay .item .last {
+        padding: 5px 0;
+    }
+
+    #counter-part .count {
+        display: block;
+        padding: 10px 0;
+    }
+
+    #counter-part .count h1 .counter {
+        font-size: 28px;
+    }
+
+    #counter-part .count h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+        margin-left: 46%;
+    }
+
+    #portfolio-part .overlay .item {
+        height: 230px;
+        width: 100%;
+    }
+
+
+    #portfolio-part .overlay .one {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .two {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .three {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .four {
+        margin-bottom: 20px;
+    }
+
+    #testimonial-part {
+        padding-bottom: 50px;
+    }
+
+    #testimonial-part .item {
+        margin: -127px 15px;
+    }
+
+    #testimonial-part .item .testimonial-line {
+        display: none;
+    }
+
+    #testimonial-part .prev {
+        border: none;
+        font-size: 0;
+    }
+
+    #testimonial-part .next {
+        border: none;
+        font-size: 0;
+    }
+
+    #testimonial-part .review .shape {
+        display: none;
+    }
+
+    #testimonial-part .review .text h2 {
+        margin-top: 15px;
+        font-size: 24px;
+    }
+
+    #testimonial-part .review .text p {
+        margin-top: -20px;
+        font-size: 11px;
+    }
+
+    #video-part .overlay {
+        padding: 90px 0;
+    }
+
+    #video-part .overlay .text h2 {
+        font-size: 18px;
+    }
+
+    /*#company-part .company-slider .item {*/
+    /*    width: 230px !important;*/
+    /*    margin: 0 30px;*/
+    /*}*/
+
+    #company-part .company-slider .prev {
+        left: -20px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #company-part .company-slider .prev {
+        border: none;
+    }
+
+    #company-part .company-slider .next {
+        right: -20px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #company-part .company-slider .next {
+        border: none;
+    }
+
+    #footer-part .head h1 {
+        font-size: 26px;
+    }
+
+    #footer-part .head::after {
+        top: 60px;
+    }
+
+    #footer-part .item {
+        padding: 0 0;
+        margin-top: 20px;
+    }
+
+    #footer-part .item .text::after {
+        display: none;
+    }
+
+    #footer-part .final p {
+        font-size: 9px;
+        padding: 10px 0;
+    }
+
+
+
+
+    .btnlast {
+        padding: 9px 11px;
+        bottom: 20px;
+        right: 20px;
+        border-radius: 8px;
+    }
+
+
+}
+
+
+/*================= 320 to 575 end =================*/
+
+
+
+/*================= 576 to 767 start =================*/
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    nav {
+        padding: 12px !important;
+    }
+
+    nav .logoN {
+        margin-left: 10px;
+    }
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #ffffff;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    nav ul li {
+        margin-right: 0;
+    }
+
+    nav ul li a::after {
+        height: 0;
+    }
+
+    #banner-part .overlay .text h1 {
+        font-size: 20px;
+        margin-top: 80px;
+    }
+
+    #banner-part .overlay .text h2 {
+        padding: 10px 0;
+    }
+
+    #banner-part .overlay .text h3 {
+        font-size: 40px;
+    }
+
+    #banner-part .overlay .text p {
+        margin: 10px auto;
+    }
+
+    #banner-part .overlay .btn {
+        padding: 5px 10px;
+    }
+
+    #banner-part ul li button {
+        width: 30px;
+    }
+
+    #banner-part ul .slick-active button {
+        width: 55px;
+    }
+
+    #banner-part .prev {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        left: 10px;
+    }
+
+    #banner-part .next {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        right: 10px;
+    }
+
+    .color-changer {
+        width: 163px;
+        top: 65%;
+    }
+
+    .color-changer .icon i {
+        font-size: 20px;
+        margin: 0 4px;
+    }
+
+    .title h4 {
+        padding: 20px 0;
+    }
+
+    #about-part {
+        padding-bottom: 40px;
+    }
+
+    #about-part .item {
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+
+    #about-part .item .img {
+        width: 220px;
+        height: 270px;
+    }
+
+    #about-part .item .img::after {
+        width: 160px;
+        height: 250px;
+        top: 38px;
+    }
+
+    #about-part .item .img .overlay h3 {
+        padding: 10px 0;
+        font-size: 20px;
+    }
+
+    #about-part .item .img .overlay .icon i {
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        margin: 0 5px;
+    }
+
+    #about-part .item2 {
+        height: auto;
+    }
+
+    #about-part ul {
+        margin-top: 50px;
+    }
+
+    #about-part ul li {
+        margin-top: 10px;
+    }
+
+    #about-part .box .item {
+        width: 230px;
+        height: 170px;
+    }
+
+    #what-i-do-part .overlay {
+        padding-bottom: 20px;
+    }
+
+    #what-i-do-part .overlay .item {
+        margin-bottom: 50px;
+    }
+
+    #what-i-do-part .overlay .item .head {
+        padding: 10px 0;
+    }
+
+    .h3, h3 {
+        font-size: 20px;
+    }
+
+    #what-i-do-part .overlay .item .middel {
+        width: 120px;
+        height: 120px;
+        margin: 10px auto;
+    }
+
+    #what-i-do-part .overlay .item .middel h4 {
+        font-size: 25px;
+    }
+
+    #what-i-do-part .overlay .item .last {
+        padding: 10px 0;
+    }
+
+    #counter-part .count {
+        /*display: block;*/
+        padding: 10px 0;
+    }
+
+    #counter-part .count h1 .counter {
+        font-size: 28px;
+    }
+
+    #counter-part .count h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+        margin-left: 3%;
+    }
+
+
+    #portfolio-part .overlay .one {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .two {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .three {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .four {
+        margin-bottom: 20px;
+    }
+
+    #testimonial-part {
+        padding-bottom: 50px;
+    }
+
+    #testimonial-part .item {
+        margin: -127px 15px;
+    }
+
+    #testimonial-part .item .testimonial-line {
+        display: none;
+    }
+
+    #testimonial-part .prev {
+        border: none;
+        font-size: 0;
+    }
+
+    #testimonial-part .next {
+        border: none;
+        font-size: 0;
+    }
+
+    #testimonial-part .review {
+        height: 250px;
+        margin-top: 30px;
+    }
+
+    #testimonial-part .review .shape {
+        display: none;
+    }
+
+    #testimonial-part .review .text h2 {
+        margin-top: 42px;
+        font-size: 24px;
+    }
+
+    #testimonial-part .review .text p {
+        margin-top: -20px;
+        font-size: 11px;
+    }
+
+    #video-part .overlay {
+        padding: 90px 0;
+    }
+
+    #video-part .overlay .text h2 {
+        font-size: 24px;
+    }
+
+    /*#company-part .company-slider .item {*/
+    /*    width: 230px !important;*/
+    /*    margin: 0 30px;*/
+    /*}*/
+
+    #company-part .company-slider .prev {
+        left: -29px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #company-part .company-slider .next {
+        right: -29px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #footer-part .head h1 {
+        font-size: 26px;
+    }
+
+    #footer-part .head::after {
+        top: 60px;
+    }
+
+    #footer-part .item {
+        padding: 0 0;
+        margin-top: 20px;
+    }
+
+    #footer-part .item .text::after {
+        display: none;
+    }
+
+    #footer-part .final p {
+        font-size: 13px;
+        padding: 10px 0;
+    }
+
+
+
+
+    .btnlast {
+        padding: 9px 11px;
+        bottom: 20px;
+        right: 20px;
+        border-radius: 8px;
+    }
+
+
+}
+
+
+/*================= 576 to 767 end =================*/
+
+
+
+/*================= 768 to 991 start =================*/
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    nav {
+        padding: 12px !important;
+    }
+
+    nav .logoN {
+        margin-left: 10px;
+    }
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #ffffff;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    nav ul li {
+        margin-right: 0;
+    }
+
+    nav ul li a::after {
+        height: 0;
+    }
+
+    #banner-part .overlay .text h1 {
+        font-size: 20px;
+        margin-top: 80px;
+    }
+
+    #banner-part .overlay .text h2 {
+        padding: 10px 0;
+    }
+
+    #banner-part .overlay .text h3 {
+        font-size: 40px;
+    }
+
+    #banner-part .overlay .text p {
+        margin: 10px auto;
+    }
+
+    #banner-part .overlay .btn {
+        padding: 5px 10px;
+    }
+
+    #banner-part ul li button {
+        width: 30px;
+    }
+
+    #banner-part ul .slick-active button {
+        width: 55px;
+    }
+
+    #banner-part .prev {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        left: 30px;
+    }
+
+    #banner-part .next {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        right: 30px;
+    }
+
+    .color-changer {
+        width: 163px;
+        top: 65%;
+    }
+
+    .color-changer .icon i {
+        font-size: 20px;
+        margin: 0 4px;
+    }
+
+    .title h4 {
+        padding: 20px 0;
+    }
+
+    #about-part {
+        padding-bottom: 40px;
+    }
+
+    #about-part .item {
+        margin-left: 0;
+        margin-top: 210px;
+    }
+
+    #about-part .item .img {
+        width: 220px;
+        height: 270px;
+    }
+
+    #about-part .item .img::after {
+        width: 160px;
+        height: 250px;
+        top: 38px;
+    }
+
+    #about-part .item .img .overlay h3 {
+        padding: 10px 0;
+        font-size: 20px;
+    }
+
+    #about-part .item .img .overlay .icon i {
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        margin: 0 5px;
+    }
+
+    #about-part .item2 {
+        height: auto;
+    }
+
+    #what-i-do-part .overlay {
+        padding-bottom: 20px;
+    }
+
+    #what-i-do-part .overlay .item {
+        margin-bottom: 50px;
+    }
+
+    #about-part ul li {
+        margin-top: 10px;
+    }
+
+    #about-part .box .item {
+        width: 230px;
+        height: 180px;
+    }
+
+    #what-i-do-part .overlay .item .head {
+        padding: 10px 0;
+    }
+
+    .h3, h3 {
+        font-size: 20px;
+    }
+
+    #what-i-do-part .overlay .item .middel {
+        width: 120px;
+        height: 120px;
+        margin: 10px auto;
+    }
+
+    #what-i-do-part .overlay .item .middel h4 {
+        font-size: 25px;
+    }
+
+    #what-i-do-part .overlay .item .last {
+        padding: 10px 0;
+    }
+
+    #counter-part .count {
+        /*display: block;*/
+        padding: 10px 0;
+    }
+
+    #counter-part .count h1 .counter {
+        font-size: 28px;
+    }
+
+    #counter-part .count h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+        margin-left: 7%;
+    }
+
+    #portfolio-part .overlay .item {
+        width: 168px;
+        height: 150px;
+    }
+
+
+    #portfolio-part .overlay .one {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .two {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .three {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .four {
+        margin-bottom: 20px;
+    }
+
+    #testimonial-part {
+        padding-bottom: 50px;
+    }
+
+    #testimonial-part .item {
+        margin: -45px 15px;
+    }
+
+    #testimonial-part .item .testimonial-line {
+        display: none;
+    }
+
+    #testimonial-part .prev {
+        border: none;
+        font-size: 0;
+    }
+
+    #testimonial-part .next {
+        border: none;
+        font-size: 0;
+    }
+
+    #testimonial-part .review {
+        height: 250px;
+        margin-top: 30px;
+    }
+
+    /*#testimonial-part .review .shape {*/
+    /*    display: none;*/
+    /*}*/
+
+    #testimonial-part .review .text h2 {
+        margin-top: 42px;
+        font-size: 24px;
+    }
+
+    #testimonial-part .review .text p {
+        margin-top: -20px;
+        font-size: 11px;
+    }
+
+    #video-part .overlay {
+        padding: 90px 0;
+    }
+
+    #video-part .overlay .text h2 {
+        font-size: 24px;
+    }
+
+    /*#company-part .company-slider .item {*/
+    /*    width: 230px !important;*/
+    /*    margin: 0 30px;*/
+    /*}*/
+
+    #company-part .company-slider .prev {
+        left: -29px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #company-part .company-slider .next {
+        right: -29px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #footer-part .head h1 {
+        font-size: 26px;
+    }
+
+    #footer-part .head::after {
+        top: 60px;
+    }
+
+    #footer-part .item {
+        padding: 0 0;
+        margin-top: 20px;
+    }
+
+    #footer-part .item .text::after {
+        display: none;
+    }
+
+    #footer-part .final p {
+        font-size: 13px;
+        padding: 10px 0;
+    }
+
+
+
+
+    .btnlast {
+        padding: 9px 11px;
+        bottom: 20px;
+        right: 20px;
+        border-radius: 8px;
+    }
+
+
+}
+
+
+/*================= 768 to 991 end =================*/
+
+
+
+/*================= 992 to 1199 start =================*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    nav {
+        padding: 12px !important;
+    }
+
+    nav .logoN {
+        margin-left: 10px;
+    }
+
+    nav button:focus {
+        outline: 0;
+    }
+
+    nav button i {
+        color: #00ebff;
+    }
+
+    .navbar-nav {
+        text-align: center;
+    }
+
+    nav ul li {
+        margin-right: 0;
+    }
+
+    nav ul li a::after {
+        height: 0;
+    }
+
+    #banner-part .overlay .text {
+        margin-top: -50px;
+    }
+
+    #banner-part .overlay .text h1 {
+        font-size: 24px;
+        margin-top: 80px;
+    }
+
+    #banner-part .overlay .text h2 {
+        padding: 10px 0;
+        font-size: 40px;
+    }
+
+    #banner-part .overlay .text h3 {
+        font-size: 50px;
+    }
+
+    #banner-part .overlay .text p {
+        margin: 10px auto;
+    }
+
+    #banner-part .overlay .btn {
+        padding: 5px 10px;
+    }
+
+    #banner-part ul li button {
+        width: 30px;
+    }
+
+    #banner-part ul .slick-active button {
+        width: 55px;
+    }
+
+    #banner-part .prev {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        left: 30px;
+    }
+
+    #banner-part .next {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        right: 30px;
+    }
+
+    .color-changer {
+        width: 163px;
+        top: 65%;
+    }
+
+    .color-changer .icon i {
+        font-size: 20px;
+        margin: 0 4px;
+    }
+
+    .title h4 {
+        padding: 20px 0;
+    }
+
+    #about-part {
+        padding-bottom: 40px;
+    }
+
+    #about-part .item {
+        margin-left: 10px;
+    }
+
+    #about-part .item .img {
+        width: 220px;
+        height: 270px;
+    }
+
+    #about-part .item .img::after {
+        width: 160px;
+        height: 250px;
+        top: 38px;
+    }
+
+    #about-part .item .img .overlay h3 {
+        padding: 10px 0;
+        font-size: 20px;
+    }
+
+    #about-part .item .img .overlay .icon i {
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        line-height: 30px;
+        margin: 0 5px;
+    }
+
+    #about-part .item2 {
+        height: auto;
+    }
+
+    #about-part .box .item {
+        width: 220px;
+        height: 180px;
+    }
+
+    #about-part ul li {
+        padding: 5px 15px;
+    }
+
+    #what-i-do-part .overlay {
+        padding-bottom: 20px;
+    }
+
+    #what-i-do-part .overlay .item {
+        margin-bottom: 50px;
+    }
+
+    #what-i-do-part .overlay .item .head {
+        padding: 10px 0;
+    }
+
+    .h3, h3 {
+        font-size: 20px;
+    }
+
+    #what-i-do-part .overlay .item .middel {
+        width: 120px;
+        height: 120px;
+        margin: 10px auto;
+    }
+
+    #what-i-do-part .overlay .item .middel h4 {
+        font-size: 25px;
+    }
+
+    #what-i-do-part .overlay .item .last {
+        padding: 10px 0;
+    }
+
+    #counter-part .count {
+        /*display: block;*/
+        padding: 10px 0;
+    }
+
+    #counter-part .count h1 .counter {
+        font-size: 28px;
+    }
+
+    #counter-part .count h1 {
+        font-size: 30px;
+        margin-bottom: 15px;
+        margin-left: 7%;
+    }
+
+    #portfolio-part .overlay .item {
+        width: 168px;
+        height: 150px;
+    }
+
+
+    #portfolio-part .overlay .one {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .two {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .three {
+        margin-bottom: 20px;
+    }
+
+    #portfolio-part .overlay .four {
+        margin-bottom: 20px;
+    }
+
+    #testimonial-part {
+        padding-bottom: 80px;
+    }
+
+    #testimonial-part .item {
+        margin: -45px 0;
+    }
+
+    #testimonial-part .item .testimonial-line {
+        display: none;
+    }
+
+    #testimonial-part .prev {
+        border: none;
+        font-size: 0;
+    }
+
+    #testimonial-part .next {
+        border: none;
+        font-size: 0;
+    }
+
+    #testimonial-part .review {
+        height: 250px;
+        margin-top: 30px;
+        width: 550px;
+        margin-left: 50px;
+    }
+
+    /*#testimonial-part .review .shape {*/
+    /*    display: none;*/
+    /*}*/
+
+    #testimonial-part .review .text h2 {
+        margin-top: 42px;
+        font-size: 24px;
+    }
+
+    #testimonial-part .review .text p {
+        margin-top: -20px;
+        font-size: 11px;
+    }
+
+    #video-part .overlay {
+        padding: 90px 0;
+    }
+
+    #video-part .overlay .text h2 {
+        font-size: 24px;
+    }
+
+    /*#company-part .company-slider .item {*/
+    /*    width: 230px !important;*/
+    /*    margin: 0 30px;*/
+    /*}*/
+
+    #company-part .company-slider .prev {
+        left: -29px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #company-part .company-slider .next {
+        right: -29px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+    }
+
+    #footer-part .head h1 {
+        font-size: 26px;
+    }
+
+    #footer-part .head::after {
+        top: 60px;
+    }
+
+    #footer-part .item {
+        padding: 0 0;
+        margin-top: 20px;
+    }
+
+    #footer-part .item .text::after {
+        display: none;
+    }
+
+    #footer-part .final p {
+        font-size: 13px;
+        padding: 10px 0;
+    }
+
+
+
+
+    .btnlast {
+        padding: 9px 11px;
+        bottom: 20px;
+        right: 20px;
+        border-radius: 8px;
+    }
+
+
+}
+
+/*================= 992 to 1199 end =================*/

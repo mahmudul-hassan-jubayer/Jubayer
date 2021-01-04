@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7010b32-2aed-4f09-b122-333100ace199" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hgr9fIRKtO40lyLkC7vYap1qgD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7010b32-2aed-4f09-b122-333100ace199" name="Default Changelist" comment="" />
+      <created>1600443427861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600443427861</updated>
+      <workItem from="1600443442191" duration="13635000" />
+      <workItem from="1600502026690" duration="20803000" />
+      <workItem from="1600619912269" duration="3528000" />
+      <workItem from="1600675162587" duration="20923000" />
+      <workItem from="1600787130478" duration="10399000" />
+      <workItem from="1601199695826" duration="9564000" />
+      <workItem from="1601275484689" duration="3563000" />
+      <workItem from="1601733082261" duration="6264000" />
+      <workItem from="1601820688054" duration="6779000" />
+      <workItem from="1601901137600" duration="7189000" />
+      <workItem from="1601966830514" duration="10733000" />
+      <workItem from="1602174731167" duration="11401000" />
+      <workItem from="1602237424547" duration="19588000" />
+      <workItem from="1602595663323" duration="8528000" />
+      <workItem from="1602615120752" duration="2398000" />
+      <workItem from="1602668605331" duration="1600000" />
+      <workItem from="1602670520921" duration="8107000" />
+      <workItem from="1602786652550" duration="971000" />
+      <workItem from="1603298925150" duration="3212000" />
+      <workItem from="1603353586549" duration="17267000" />
+      <workItem from="1603447698612" duration="5915000" />
+      <workItem from="1603534975773" duration="7490000" />
+      <workItem from="1603876113036" duration="19093000" />
+      <workItem from="1605709329760" duration="11937000" />
+      <workItem from="1606023617736" duration="18293000" />
+      <workItem from="1606447913908" duration="4633000" />
+      <workItem from="1606978839985" duration="5051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Inspections" timestamp="1602248069370">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="275" y="26" key="#Inspections/0.0.1366.736@0.0.1366.736" timestamp="1602248069370" />
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600792709661">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="329" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.736@0.0.1366.736" timestamp="1600792709661" />
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup" timestamp="1602243742871">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="346" y="57" width="672" height="678" key="search.everywhere.popup/0.0.1366.736@0.0.1366.736" timestamp="1602243742871" />
+  </component>
+</project>
